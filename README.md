@@ -15,7 +15,7 @@
   
 - 📫 Reach me on [![Kamoladdin Jumanazarov](https://img.shields.io/badge/KamoladdinJumanazarov-30302f?style=flat&logo=telegram)](https://t.me/kam0lad1n)
   
-- 📫 How to reach me **kmldn.dev@gmail.com**
+- 📫 How to reach me [**kmldn.dev@gmail.com**](https://kmldn.dev@gmail.com)
 
 - ⚡ Fun fact **I'm the best**
 <hr>
